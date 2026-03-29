@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Harsha
 
 A current software engineering undergraduate at the University of Kelaniya, with academic training in software development.
