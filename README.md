@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Harsha
+# 👋 Hi, I'm Prabhath Harsha
 
 ### 💻 Software Engineering Undergraduate | Full-Stack Developer
 
